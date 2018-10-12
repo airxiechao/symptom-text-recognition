@@ -3,5 +3,7 @@
 
 例如：
 --
+第一行为手工标注，第二行为模型识别
 
 ![](https://github.com/airxiechao/symptom-text-recognition/raw/master/vis.png)
+
